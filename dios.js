@@ -1,1 +1,1 @@
-document.body.innerHtml="hii";
+document.body.innerHTML="hii";
