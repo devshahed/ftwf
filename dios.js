@@ -1,1 +1,1 @@
-setInnerText(document.getElementById("log"),"Loaded baby);
+document.getElementById("log").innerHTML="hiii";
