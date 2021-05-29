@@ -1,1 +1,3 @@
-alert(8);
+setInnerText(document.getElementById("log"),  
+          "Loaded baby);
+      }
