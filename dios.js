@@ -1,1 +1,1 @@
-document.getElementById("log").innerHTML="hiii";
+document.getElementById("log").onclick="alert(8)";
