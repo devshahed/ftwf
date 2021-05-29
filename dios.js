@@ -1,1 +1,1 @@
-document.getElementById("log").onclick="alert(8)";
+alert(8);
