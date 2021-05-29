@@ -1,3 +1,1 @@
-setInnerText(document.getElementById("log"),  
-          "Loaded baby);
-      }
+setInnerText(document.getElementById("log"),"Loaded baby);
